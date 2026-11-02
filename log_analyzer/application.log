@@ -1,0 +1,400 @@
+2026-10-29 08:00:00 WARN  [APIService] Request rate limit approaching clientId=CLIENT-19 requests=95 limit=100
+2026-10-29 08:00:10 INFO  [NotificationService] Email notification sent messageId=MSG-992
+2026-10-29 08:00:28 INFO  [AuthService] User login successful userId=1554
+2026-10-29 08:01:21 ERROR [DatabaseService] Query execution failed queryId=Q-8857 reason=CONNECTION_TIMEOUT
+2026-10-29 08:01:32 INFO  [AuthService] User login successful userId=1189
+2026-10-29 08:01:05 ERROR [PaymentService] Payment authorization failed orderId=ORD-5027 reason=GATEWAY_TIMEOUT
+2026-10-29 08:01:00 INFO  [NotificationService] Email notification sent messageId=MSG-897
+2026-10-29 08:02:06 INFO  [OrderService] Order created orderId=ORD-5051 userId=1709
+2026-10-29 08:01:36 TRACE [CacheService] Checking cache key cacheKey=userSession:item:185
+2026-10-29 08:01:39 ERROR [PaymentService] Payment authorization failed orderId=ORD-5052 reason=GATEWAY_TIMEOUT
+2026-10-29 08:03:30 TRACE [OrderService] Entering validateOrder() orderId=ORD-5001
+2026-10-29 08:01:50 TRACE [DatabaseService] Binding query parameter queryId=Q-8898 parameterIndex=2
+2026-10-29 08:03:12 INFO  [NotificationService] Email notification sent messageId=MSG-903
+2026-10-29 08:03:28 WARN  [APIService] Request rate limit approaching clientId=CLIENT-17 requests=90 limit=100
+2026-10-29 08:04:40 DEBUG [OrderService] Validating order details orderId=ORD-5027 itemCount=1
+2026-10-29 08:06:00 INFO  [ReportService] Daily report generation completed reportId=RPT-209 durationMs=2774
+2026-10-29 08:05:36 INFO  [OrderService] Order created orderId=ORD-5017 userId=1669
+2026-10-29 08:03:07 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-953 reason=INVALID_FORMAT
+2026-10-29 08:06:54 WARN  [DatabasePool] Connection pool usage high active=17 max=20
+2026-10-29 08:07:17 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5111 durationMs=1760
+2026-10-29 08:06:20 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5006 durationMs=3609
+2026-10-29 08:07:21 INFO  [NotificationService] Email notification sent messageId=MSG-831
+2026-10-29 08:05:30 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8916 parameterCount=3
+2026-10-29 08:08:26 INFO  [AuthService] User login successful userId=2060
+2026-10-29 08:07:36 TRACE [DatabaseService] Binding query parameter queryId=Q-8878 parameterIndex=1
+2026-10-29 08:06:40 DEBUG [AuthService] User role resolved userId=1593 role=USER
+2026-10-29 08:05:12 INFO  [NotificationService] Email notification sent messageId=MSG-792
+2026-10-29 08:12:09 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5106 durationMs=3100
+2026-10-29 08:08:52 ERROR [PaymentService] Payment authorization failed orderId=ORD-5001 reason=GATEWAY_TIMEOUT
+2026-10-29 08:08:42 INFO  [OrderService] Order created orderId=ORD-5127 userId=1445
+2026-10-29 08:06:30 WARN  [DatabasePool] Connection pool usage high active=20 max=20
+2026-10-29 08:14:28 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-953 reason=INVALID_FORMAT
+2026-10-29 08:09:04 INFO  [NotificationService] Email notification sent messageId=MSG-810
+2026-10-29 08:05:30 INFO  [ReportService] Daily report generation completed reportId=RPT-202 durationMs=3914
+2026-10-29 08:05:40 ERROR [DatabaseService] Query execution failed queryId=Q-8913 reason=CONNECTION_TIMEOUT
+2026-10-29 08:07:00 INFO  [AuthService] User login successful userId=1213
+2026-10-29 08:07:48 INFO  [AuthService] User login successful userId=1234
+2026-10-29 08:14:48 DEBUG [OrderService] Validating order details orderId=ORD-5039 itemCount=6
+2026-10-29 08:06:20 INFO  [OrderService] Order created orderId=ORD-5032 userId=1221
+2026-10-29 08:07:09 ERROR [AuthService] Authentication failed userId=2136 reason=INVALID_CREDENTIALS
+2026-10-29 08:15:20 INFO  [AuthService] User login successful userId=1664
+2026-10-29 08:19:08 WARN  [FileProcessor] Retrying file processing fileId=FILE-901 attempt=4
+2026-10-29 08:14:00 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-906 reason=INVALID_FORMAT
+2026-10-29 08:17:12 DEBUG [OrderService] Validating order details orderId=ORD-5077 itemCount=1
+2026-10-29 08:20:32 INFO  [InventoryService] Stock reserved orderId=ORD-5139 sku=SKU-946
+2026-10-29 08:16:30 ERROR [DatabaseService] Query execution failed queryId=Q-8868 reason=CONNECTION_TIMEOUT
+2026-10-29 08:15:20 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-930 reason=INVALID_FORMAT
+2026-10-29 08:20:22 INFO  [AuthService] User login successful userId=1671
+2026-10-29 08:20:48 INFO  [OrderService] Order created orderId=ORD-5067 userId=2088
+2026-10-29 08:22:52 ERROR [PaymentService] Payment authorization failed orderId=ORD-5078 reason=GATEWAY_TIMEOUT
+2026-10-29 08:22:30 ERROR [DatabaseService] Query execution failed queryId=Q-8902 reason=CONNECTION_TIMEOUT
+2026-10-29 08:18:42 DEBUG [OrderService] Validating order details orderId=ORD-5094 itemCount=7
+2026-10-29 08:14:44 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5144 result=SUCCESS
+2026-10-29 08:18:33 ERROR [DatabaseService] Query execution failed queryId=Q-8908 reason=CONNECTION_TIMEOUT
+2026-10-29 08:21:36 ERROR [DatabaseService] Query execution failed queryId=Q-8908 reason=CONNECTION_TIMEOUT
+2026-10-29 08:09:10 ERROR [DatabaseService] Query execution failed queryId=Q-8878 reason=CONNECTION_TIMEOUT
+2026-10-29 08:16:48 DEBUG [OrderService] Validating order details orderId=ORD-5044 itemCount=3
+2026-10-29 08:24:42 ERROR [PaymentService] Payment authorization failed orderId=ORD-5054 reason=GATEWAY_TIMEOUT
+2026-10-29 08:14:30 ERROR [PaymentService] Payment authorization failed orderId=ORD-5022 reason=GATEWAY_TIMEOUT
+2026-10-29 08:14:45 DEBUG [CacheService] Cache lookup completed cacheName=pricingRules hit=true
+2026-10-29 08:11:00 ERROR [PaymentService] Payment authorization failed orderId=ORD-5128 reason=GATEWAY_TIMEOUT
+2026-10-29 08:13:13 TRACE [DatabaseService] Binding query parameter queryId=Q-8838 parameterIndex=4
+2026-10-29 08:24:48 DEBUG [OrderService] Validating order details orderId=ORD-5117 itemCount=1
+2026-10-29 08:26:15 ERROR [PaymentService] Payment authorization failed orderId=ORD-5107 reason=GATEWAY_TIMEOUT
+2026-10-29 08:12:48 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-903 reason=INVALID_FORMAT
+2026-10-29 08:16:15 INFO  [InventoryService] Stock reserved orderId=ORD-5073 sku=SKU-509
+2026-10-29 08:15:24 TRACE [OrderService] Entering validateOrder() orderId=ORD-5018
+2026-10-29 08:23:27 WARN  [FileProcessor] Retrying file processing fileId=FILE-930 attempt=2
+2026-10-29 08:13:36 DEBUG [AuthService] User role resolved userId=1062 role=SUPPORT
+2026-10-29 08:16:06 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8888 parameterCount=4
+2026-10-29 08:14:00 DEBUG [AuthService] User role resolved userId=1339 role=SUPPORT
+2026-10-29 08:21:18 ERROR [PaymentService] Payment authorization failed orderId=ORD-5119 reason=GATEWAY_TIMEOUT
+2026-10-29 08:13:12 INFO  [AuthService] User login successful userId=1870
+2026-10-29 08:15:49 TRACE [CacheService] Checking cache key cacheKey=userSession:item:918
+2026-10-29 08:22:12 ERROR [PaymentService] Payment authorization failed orderId=ORD-5143 reason=GATEWAY_TIMEOUT
+2026-10-29 08:28:45 ERROR [PaymentService] Payment authorization failed orderId=ORD-5002 reason=GATEWAY_TIMEOUT
+2026-10-29 08:32:56 INFO  [OrderService] Order created orderId=ORD-5072 userId=1046
+2026-10-29 08:32:05 DEBUG [OrderService] Validating order details orderId=ORD-5072 itemCount=4
+2026-10-29 08:24:42 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8816 parameterCount=3
+2026-10-29 08:28:58 INFO  [ReportService] Daily report generation completed reportId=RPT-203 durationMs=3059
+2026-10-29 08:28:00 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5144 durationMs=5082
+2026-10-29 08:16:12 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5079 result=SUCCESS
+2026-10-29 08:28:42 ERROR [DatabaseService] Query execution failed queryId=Q-8820 reason=CONNECTION_TIMEOUT
+2026-10-29 08:22:08 ERROR [DatabaseService] Query execution failed queryId=Q-8807 reason=CONNECTION_TIMEOUT
+2026-10-29 08:25:12 DEBUG [OrderService] Validating order details orderId=ORD-5031 itemCount=7
+2026-10-29 08:29:45 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8857 parameterCount=8
+2026-10-29 08:27:14 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5052 result=SUCCESS
+2026-10-29 08:18:51 ERROR [AuthService] Authentication failed userId=1262 reason=INVALID_CREDENTIALS
+2026-10-29 08:24:56 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:884
+2026-10-29 08:16:19 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-923 reason=INVALID_FORMAT
+2026-10-29 08:40:30 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-908 reason=INVALID_FORMAT
+2026-10-29 08:30:20 ERROR [DatabaseService] Query execution failed queryId=Q-8903 reason=CONNECTION_TIMEOUT
+2026-10-29 08:38:20 TRACE [DatabaseService] Binding query parameter queryId=Q-8880 parameterIndex=2
+2026-10-29 08:32:33 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5118 durationMs=3990
+2026-10-29 08:36:02 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8823 parameterCount=4
+2026-10-29 08:28:30 ERROR [DatabaseService] Query execution failed queryId=Q-8829 reason=CONNECTION_TIMEOUT
+2026-10-29 08:30:24 ERROR [DatabaseService] Query execution failed queryId=Q-8870 reason=CONNECTION_TIMEOUT
+2026-10-29 08:38:48 ERROR [PaymentService] Payment authorization failed orderId=ORD-5075 reason=GATEWAY_TIMEOUT
+2026-10-29 08:35:56 TRACE [CacheService] Checking cache key cacheKey=productCatalog:item:830
+2026-10-29 08:46:12 DEBUG [AuthService] User role resolved userId=1637 role=USER
+2026-10-29 08:20:00 INFO  [ReportService] Daily report generation completed reportId=RPT-208 durationMs=3864
+2026-10-29 08:28:37 DEBUG [AuthService] User role resolved userId=2026 role=ADMIN
+2026-10-29 08:39:06 WARN  [APIService] Request rate limit approaching clientId=CLIENT-28 requests=99 limit=100
+2026-10-29 08:36:03 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-940 reason=INVALID_FORMAT
+2026-10-29 08:45:04 ERROR [PaymentService] Payment authorization failed orderId=ORD-5086 reason=GATEWAY_TIMEOUT
+2026-10-29 08:35:00 DEBUG [OrderService] Validating order details orderId=ORD-5072 itemCount=4
+2026-10-29 08:21:12 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-973 reason=INVALID_FORMAT
+2026-10-29 08:42:48 WARN  [APIService] Request rate limit approaching clientId=CLIENT-43 requests=96 limit=100
+2026-10-29 08:18:00 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5080 result=SUCCESS
+2026-10-29 08:27:15 ERROR [AuthService] Authentication failed userId=1815 reason=INVALID_CREDENTIALS
+2026-10-29 08:18:20 ERROR [PaymentService] Payment authorization failed orderId=ORD-5029 reason=GATEWAY_TIMEOUT
+2026-10-29 08:33:18 ERROR [PaymentService] Payment authorization failed orderId=ORD-5023 reason=GATEWAY_TIMEOUT
+2026-10-29 08:28:00 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-922 reason=INVALID_FORMAT
+2026-10-29 08:26:22 WARN  [FileProcessor] Retrying file processing fileId=FILE-912 attempt=3
+2026-10-29 08:19:00 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8873 parameterCount=4
+2026-10-29 08:26:50 ERROR [PaymentService] Payment authorization failed orderId=ORD-5148 reason=GATEWAY_TIMEOUT
+2026-10-29 08:32:52 ERROR [AuthService] Authentication failed userId=2095 reason=INVALID_CREDENTIALS
+2026-10-29 08:35:06 ERROR [AuthService] Authentication failed userId=1633 reason=INVALID_CREDENTIALS
+2026-10-29 08:47:12 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-951 reason=INVALID_FORMAT
+2026-10-29 08:35:42 TRACE [DatabaseService] Binding query parameter queryId=Q-8866 parameterIndex=3
+2026-10-29 08:46:00 INFO  [NotificationService] Email notification sent messageId=MSG-955
+2026-10-29 08:22:11 TRACE [DatabaseService] Binding query parameter queryId=Q-8841 parameterIndex=2
+2026-10-29 08:40:40 ERROR [PaymentService] Payment authorization failed orderId=ORD-5142 reason=GATEWAY_TIMEOUT
+2026-10-29 08:53:18 ERROR [DatabaseService] Query execution failed queryId=Q-8850 reason=CONNECTION_TIMEOUT
+2026-10-29 08:33:04 ERROR [AuthService] Authentication failed userId=1875 reason=INVALID_CREDENTIALS
+2026-10-29 08:47:55 INFO  [AuthService] User login successful userId=1630
+2026-10-29 08:27:18 INFO  [ReportService] Daily report generation completed reportId=RPT-201 durationMs=3758
+2026-10-29 08:27:31 WARN  [FileProcessor] Retrying file processing fileId=FILE-952 attempt=2
+2026-10-29 08:29:52 DEBUG [CacheService] Cache lookup completed cacheName=pricingRules hit=false
+2026-10-29 08:34:24 INFO  [InventoryService] Stock reserved orderId=ORD-5092 sku=SKU-326
+2026-10-29 09:00:40 ERROR [PaymentService] Payment authorization failed orderId=ORD-5090 reason=GATEWAY_TIMEOUT
+2026-10-29 08:30:34 DEBUG [AuthService] User role resolved userId=1805 role=SUPPORT
+2026-10-29 08:55:00 INFO  [InventoryService] Stock reserved orderId=ORD-5068 sku=SKU-923
+2026-10-29 08:35:28 ERROR [PaymentService] Payment authorization failed orderId=ORD-5147 reason=GATEWAY_TIMEOUT
+2026-10-29 08:58:04 ERROR [DatabaseService] Query execution failed queryId=Q-8833 reason=CONNECTION_TIMEOUT
+2026-10-29 09:03:00 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:703
+2026-10-29 08:58:56 INFO  [OrderService] Order created orderId=ORD-5027 userId=1263
+2026-10-29 08:54:48 TRACE [DatabaseService] Binding query parameter queryId=Q-8881 parameterIndex=1
+2026-10-29 08:50:36 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5003 durationMs=2205
+2026-10-29 08:57:55 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5021 result=SUCCESS
+2026-10-29 09:00:40 DEBUG [CacheService] Cache lookup completed cacheName=productCatalog hit=true
+2026-10-29 09:01:06 DEBUG [CacheService] Cache lookup completed cacheName=productCatalog hit=true
+2026-10-29 08:33:08 ERROR [PaymentService] Payment authorization failed orderId=ORD-5022 reason=GATEWAY_TIMEOUT
+2026-10-29 08:23:50 INFO  [AuthService] User login successful userId=1317
+2026-10-29 08:31:12 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5049 durationMs=4227
+2026-10-29 08:36:15 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-925 reason=INVALID_FORMAT
+2026-10-29 09:08:08 WARN  [DatabasePool] Connection pool usage high active=20 max=20
+2026-10-29 09:08:36 WARN  [DatabasePool] Connection pool usage high active=17 max=20
+2026-10-29 08:59:12 TRACE [DatabaseService] Binding query parameter queryId=Q-8853 parameterIndex=3
+2026-10-29 08:39:44 DEBUG [AuthService] User role resolved userId=1622 role=USER
+2026-10-29 09:00:00 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-966 reason=INVALID_FORMAT
+2026-10-29 08:55:22 ERROR [DatabaseService] Query execution failed queryId=Q-8920 reason=CONNECTION_TIMEOUT
+2026-10-29 08:38:00 INFO  [AuthService] User login successful userId=1006
+2026-10-29 09:08:51 ERROR [PaymentService] Payment authorization failed orderId=ORD-5052 reason=GATEWAY_TIMEOUT
+2026-10-29 08:46:12 DEBUG [CacheService] Cache lookup completed cacheName=productCatalog hit=true
+2026-10-29 08:38:45 INFO  [InventoryService] Stock reserved orderId=ORD-5087 sku=SKU-569
+2026-10-29 08:36:24 ERROR [PaymentService] Payment authorization failed orderId=ORD-5084 reason=GATEWAY_TIMEOUT
+2026-10-29 09:10:39 TRACE [DatabaseService] Binding query parameter queryId=Q-8869 parameterIndex=2
+2026-10-29 08:28:58 WARN  [FileProcessor] Retrying file processing fileId=FILE-901 attempt=4
+2026-10-29 08:55:39 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8893 parameterCount=11
+2026-10-29 09:06:40 DEBUG [OrderService] Validating order details orderId=ORD-5023 itemCount=5
+2026-10-29 08:42:56 TRACE [OrderService] Entering validateOrder() orderId=ORD-5054
+2026-10-29 08:48:36 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5047 result=SUCCESS
+2026-10-29 08:29:53 ERROR [AuthService] Authentication failed userId=1094 reason=INVALID_CREDENTIALS
+2026-10-29 08:30:04 TRACE [OrderService] Entering validateOrder() orderId=ORD-5143
+2026-10-29 08:41:15 TRACE [OrderService] Entering validateOrder() orderId=ORD-5117
+2026-10-29 09:03:38 INFO  [InventoryService] Stock reserved orderId=ORD-5093 sku=SKU-724
+2026-10-29 08:27:50 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-943 reason=INVALID_FORMAT
+2026-10-29 09:07:12 TRACE [OrderService] Entering validateOrder() orderId=ORD-5011
+2026-10-29 09:18:52 ERROR [PaymentService] Payment authorization failed orderId=ORD-5082 reason=GATEWAY_TIMEOUT
+2026-10-29 08:53:50 INFO  [ReportService] Daily report generation completed reportId=RPT-219 durationMs=3210
+2026-10-29 08:37:03 ERROR [PaymentService] Payment authorization failed orderId=ORD-5059 reason=GATEWAY_TIMEOUT
+2026-10-29 08:40:08 ERROR [PaymentService] Payment authorization failed orderId=ORD-5017 reason=GATEWAY_TIMEOUT
+2026-10-29 08:43:15 ERROR [PaymentService] Payment authorization failed orderId=ORD-5123 reason=GATEWAY_TIMEOUT
+2026-10-29 08:52:12 DEBUG [CacheService] Cache lookup completed cacheName=userSession hit=false
+2026-10-29 09:21:40 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-932 reason=INVALID_FORMAT
+2026-10-29 09:19:12 INFO  [InventoryService] Stock reserved orderId=ORD-5072 sku=SKU-479
+2026-10-29 08:38:21 DEBUG [CacheService] Cache lookup completed cacheName=pricingRules hit=true
+2026-10-29 09:05:16 INFO  [NotificationService] Email notification sent messageId=MSG-768
+2026-10-29 09:05:38 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5093 result=SUCCESS
+2026-10-29 09:18:00 DEBUG [OrderService] Validating order details orderId=ORD-5001 itemCount=5
+2026-10-29 08:30:10 ERROR [PaymentService] Payment authorization failed orderId=ORD-5125 reason=GATEWAY_TIMEOUT
+2026-10-29 09:21:54 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5033 result=SUCCESS
+2026-10-29 09:25:24 ERROR [PaymentService] Payment authorization failed orderId=ORD-5015 reason=GATEWAY_TIMEOUT
+2026-10-29 08:39:52 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-973 reason=INVALID_FORMAT
+2026-10-29 08:30:50 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5013 durationMs=5798
+2026-10-29 08:37:12 ERROR [PaymentService] Payment authorization failed orderId=ORD-5093 reason=GATEWAY_TIMEOUT
+2026-10-29 08:46:45 DEBUG [AuthService] User role resolved userId=1401 role=SUPPORT
+2026-10-29 09:27:44 ERROR [PaymentService] Payment authorization failed orderId=ORD-5101 reason=GATEWAY_TIMEOUT
+2026-10-29 08:40:57 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:373
+2026-10-29 08:41:10 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-928 reason=INVALID_FORMAT
+2026-10-29 08:47:45 ERROR [PaymentService] Payment authorization failed orderId=ORD-5071 reason=GATEWAY_TIMEOUT
+2026-10-29 08:57:36 DEBUG [AuthService] User role resolved userId=2007 role=ADMIN
+2026-10-29 08:57:54 WARN  [APIService] Request rate limit approaching clientId=CLIENT-73 requests=99 limit=100
+2026-10-29 09:14:22 INFO  [AuthService] User login successful userId=1923
+2026-10-29 09:08:15 INFO  [OrderService] Order created orderId=ORD-5021 userId=1524
+2026-10-29 09:18:24 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8802 parameterCount=4
+2026-10-29 09:28:39 ERROR [DatabaseService] Query execution failed queryId=Q-8805 reason=CONNECTION_TIMEOUT
+2026-10-29 08:49:30 INFO  [AuthService] User login successful userId=1034
+2026-10-29 09:16:17 INFO  [InventoryService] Stock reserved orderId=ORD-5005 sku=SKU-466
+2026-10-29 08:33:20 WARN  [DatabasePool] Connection pool usage high active=20 max=20
+2026-10-29 08:40:12 INFO  [InventoryService] Stock reserved orderId=ORD-5109 sku=SKU-841
+2026-10-29 09:30:54 DEBUG [OrderService] Validating order details orderId=ORD-5048 itemCount=7
+2026-10-29 09:34:44 INFO  [AuthService] User login successful userId=1071
+2026-10-29 09:01:12 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-965 reason=INVALID_FORMAT
+2026-10-29 09:01:30 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5009 result=SUCCESS
+2026-10-29 09:18:58 ERROR [AuthService] Authentication failed userId=1235 reason=INVALID_CREDENTIALS
+2026-10-29 09:22:48 DEBUG [AuthService] User role resolved userId=2058 role=ADMIN
+2026-10-29 08:45:04 INFO  [ReportService] Daily report generation completed reportId=RPT-217 durationMs=5071
+2026-10-29 09:37:32 INFO  [InventoryService] Stock reserved orderId=ORD-5091 sku=SKU-945
+2026-10-29 08:42:00 INFO  [InventoryService] Stock reserved orderId=ORD-5013 sku=SKU-396
+2026-10-29 09:24:24 TRACE [CacheService] Checking cache key cacheKey=productCatalog:item:915
+2026-10-29 09:21:16 ERROR [PaymentService] Payment authorization failed orderId=ORD-5120 reason=GATEWAY_TIMEOUT
+2026-10-29 09:28:45 ERROR [PaymentService] Payment authorization failed orderId=ORD-5098 reason=GATEWAY_TIMEOUT
+2026-10-29 09:36:18 INFO  [OrderService] Order created orderId=ORD-5105 userId=2045
+2026-10-29 09:22:25 WARN  [APIService] Request rate limit approaching clientId=CLIENT-59 requests=95 limit=100
+2026-10-29 08:43:12 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-932 reason=INVALID_FORMAT
+2026-10-29 09:26:48 DEBUG [AuthService] User role resolved userId=1718 role=ADMIN
+2026-10-29 09:27:12 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-933 reason=INVALID_FORMAT
+2026-10-29 09:05:42 ERROR [PaymentService] Payment authorization failed orderId=ORD-5141 reason=GATEWAY_TIMEOUT
+2026-10-29 09:09:40 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8902 parameterCount=12
+2026-10-29 08:58:56 DEBUG [CacheService] Cache lookup completed cacheName=userSession hit=true
+2026-10-29 08:37:00 ERROR [AuthService] Authentication failed userId=1678 reason=INVALID_CREDENTIALS
+2026-10-29 09:14:20 TRACE [DatabaseService] Binding query parameter queryId=Q-8910 parameterIndex=3
+2026-10-29 09:37:04 ERROR [PaymentService] Payment authorization failed orderId=ORD-5033 reason=GATEWAY_TIMEOUT
+2026-10-29 09:07:30 INFO  [OrderService] Order created orderId=ORD-5121 userId=1678
+2026-10-29 08:45:12 ERROR [PaymentService] Payment authorization failed orderId=ORD-5064 reason=GATEWAY_TIMEOUT
+2026-10-29 09:00:32 WARN  [APIService] Request rate limit approaching clientId=CLIENT-28 requests=82 limit=100
+2026-10-29 09:04:36 INFO  [NotificationService] Email notification sent messageId=MSG-796
+2026-10-29 08:57:15 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-945 reason=INVALID_FORMAT
+2026-10-29 09:01:20 WARN  [FileProcessor] Retrying file processing fileId=FILE-902 attempt=3
+2026-10-29 09:13:09 INFO  [AuthService] User login successful userId=1790
+2026-10-29 08:38:40 INFO  [ReportService] Daily report generation completed reportId=RPT-224 durationMs=4709
+2026-10-29 09:02:08 DEBUG [AuthService] User role resolved userId=1678 role=USER
+2026-10-29 09:33:36 ERROR [DatabaseService] Query execution failed queryId=Q-8852 reason=CONNECTION_TIMEOUT
+2026-10-29 09:22:15 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-903 reason=INVALID_FORMAT
+2026-10-29 09:38:20 DEBUG [OrderService] Validating order details orderId=ORD-5020 itemCount=10
+2026-10-29 09:46:39 ERROR [AuthService] Authentication failed userId=1734 reason=INVALID_CREDENTIALS
+2026-10-29 09:23:18 INFO  [NotificationService] Email notification sent messageId=MSG-755
+2026-10-29 08:55:46 ERROR [DatabaseService] Query execution failed queryId=Q-8897 reason=CONNECTION_TIMEOUT
+2026-10-29 08:40:00 INFO  [OrderService] Order created orderId=ORD-5088 userId=1498
+2026-10-29 09:52:28 DEBUG [OrderService] Validating order details orderId=ORD-5020 itemCount=7
+2026-10-29 09:24:42 ERROR [PaymentService] Payment authorization failed orderId=ORD-5126 reason=GATEWAY_TIMEOUT
+2026-10-29 08:52:39 TRACE [OrderService] Entering validateOrder() orderId=ORD-5104
+2026-10-29 09:33:32 TRACE [DatabaseService] Binding query parameter queryId=Q-8809 parameterIndex=4
+2026-10-29 08:49:00 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-968 reason=INVALID_FORMAT
+2026-10-29 09:17:54 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-969 reason=INVALID_FORMAT
+2026-10-29 09:22:20 DEBUG [AuthService] User role resolved userId=1414 role=SUPPORT
+2026-10-29 09:39:12 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8836 parameterCount=6
+2026-10-29 09:52:03 TRACE [DatabaseService] Binding query parameter queryId=Q-8816 parameterIndex=3
+2026-10-29 09:44:10 DEBUG [AuthService] User role resolved userId=2109 role=USER
+2026-10-29 08:54:23 WARN  [APIService] Request rate limit approaching clientId=CLIENT-79 requests=85 limit=100
+2026-10-29 09:11:24 ERROR [DatabaseService] Query execution failed queryId=Q-8836 reason=CONNECTION_TIMEOUT
+2026-10-29 09:32:46 DEBUG [CacheService] Cache lookup completed cacheName=pricingRules hit=false
+2026-10-29 08:50:48 ERROR [DatabaseService] Query execution failed queryId=Q-8884 reason=CONNECTION_TIMEOUT
+2026-10-29 09:42:00 DEBUG [AuthService] User role resolved userId=1444 role=ADMIN
+2026-10-29 09:50:56 ERROR [PaymentService] Payment authorization failed orderId=ORD-5150 reason=GATEWAY_TIMEOUT
+2026-10-29 08:47:07 TRACE [CacheService] Checking cache key cacheKey=productCatalog:item:423
+2026-10-29 09:51:48 ERROR [AuthService] Authentication failed userId=1657 reason=INVALID_CREDENTIALS
+2026-10-29 08:47:29 INFO  [AuthService] User login successful userId=1526
+2026-10-29 09:31:00 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:113
+2026-10-29 09:05:15 TRACE [OrderService] Entering validateOrder() orderId=ORD-5047
+2026-10-29 08:43:40 ERROR [DatabaseService] Query execution failed queryId=Q-8878 reason=CONNECTION_TIMEOUT
+2026-10-29 09:40:49 INFO  [NotificationService] Email notification sent messageId=MSG-844
+2026-10-29 09:32:24 TRACE [OrderService] Entering validateOrder() orderId=ORD-5084
+2026-10-29 09:37:10 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-950 reason=INVALID_FORMAT
+2026-10-29 09:10:56 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-949 reason=INVALID_FORMAT
+2026-10-29 09:02:18 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5101 result=SUCCESS
+2026-10-29 08:58:04 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-947 reason=INVALID_FORMAT
+2026-10-29 09:02:46 TRACE [CacheService] Checking cache key cacheKey=userSession:item:640
+2026-10-29 09:57:00 DEBUG [CacheService] Cache lookup completed cacheName=userSession hit=true
+2026-10-29 09:48:24 DEBUG [OrderService] Validating order details orderId=ORD-5143 itemCount=3
+2026-10-29 09:39:44 TRACE [DatabaseService] Binding query parameter queryId=Q-8865 parameterIndex=5
+2026-10-29 09:17:21 ERROR [PaymentService] Payment authorization failed orderId=ORD-5114 reason=GATEWAY_TIMEOUT
+2026-10-29 09:08:30 DEBUG [OrderService] Validating order details orderId=ORD-5068 itemCount=5
+2026-10-29 09:45:25 INFO  [AuthService] User login successful userId=1903
+2026-10-29 08:59:48 ERROR [PaymentService] Payment authorization failed orderId=ORD-5122 reason=GATEWAY_TIMEOUT
+2026-10-29 09:13:52 WARN  [FileProcessor] Retrying file processing fileId=FILE-976 attempt=4
+2026-10-29 10:09:44 TRACE [DatabaseService] Binding query parameter queryId=Q-8806 parameterIndex=3
+2026-10-29 10:05:33 INFO  [InventoryService] Stock reserved orderId=ORD-5011 sku=SKU-920
+2026-10-29 09:42:40 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8803 parameterCount=9
+2026-10-29 10:01:46 TRACE [OrderService] Entering validateOrder() orderId=ORD-5009
+2026-10-29 09:57:30 ERROR [PaymentService] Payment authorization failed orderId=ORD-5019 reason=GATEWAY_TIMEOUT
+2026-10-29 09:24:54 ERROR [PaymentService] Payment authorization failed orderId=ORD-5037 reason=GATEWAY_TIMEOUT
+2026-10-29 09:44:08 ERROR [PaymentService] Payment authorization failed orderId=ORD-5005 reason=GATEWAY_TIMEOUT
+2026-10-29 09:44:30 DEBUG [AuthService] User role resolved userId=1377 role=USER
+2026-10-29 08:57:12 INFO  [AuthService] User login successful userId=1674
+2026-10-29 09:02:11 INFO  [InventoryService] Stock reserved orderId=ORD-5067 sku=SKU-700
+2026-10-29 08:57:36 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5141 result=SUCCESS
+2026-10-29 09:12:15 ERROR [PaymentService] Payment authorization failed orderId=ORD-5083 reason=GATEWAY_TIMEOUT
+2026-10-29 09:22:10 INFO  [AuthService] User login successful userId=2095
+2026-10-29 10:01:15 TRACE [DatabaseService] Binding query parameter queryId=Q-8868 parameterIndex=4
+2026-10-29 09:42:12 INFO  [ReportService] Daily report generation completed reportId=RPT-212 durationMs=3261
+2026-10-29 09:03:29 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:102
+2026-10-29 09:42:54 INFO  [InventoryService] Stock reserved orderId=ORD-5101 sku=SKU-469
+2026-10-29 10:12:45 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:175
+2026-10-29 09:38:40 ERROR [AuthService] Authentication failed userId=2044 reason=INVALID_CREDENTIALS
+2026-10-29 09:34:03 DEBUG [AuthService] User role resolved userId=1032 role=USER
+2026-10-29 09:19:28 INFO  [ReportService] Daily report generation completed reportId=RPT-218 durationMs=963
+2026-10-29 09:24:43 ERROR [PaymentService] Payment authorization failed orderId=ORD-5024 reason=GATEWAY_TIMEOUT
+2026-10-29 09:05:00 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-931 reason=INVALID_FORMAT
+2026-10-29 09:05:13 INFO  [AuthService] User login successful userId=1662
+2026-10-29 10:10:52 TRACE [CacheService] Checking cache key cacheKey=pricingRules:item:700
+2026-10-29 09:25:51 TRACE [OrderService] Entering validateOrder() orderId=ORD-5056
+2026-10-29 10:01:36 INFO  [NotificationService] Email notification sent messageId=MSG-738
+2026-10-29 09:21:20 ERROR [DatabaseService] Query execution failed queryId=Q-8884 reason=CONNECTION_TIMEOUT
+2026-10-29 10:12:36 INFO  [NotificationService] Email notification sent messageId=MSG-849
+2026-10-29 09:01:24 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5008 result=SUCCESS
+2026-10-29 09:47:48 INFO  [ReportService] Daily report generation completed reportId=RPT-217 durationMs=4567
+2026-10-29 09:32:42 ERROR [PaymentService] Payment authorization failed orderId=ORD-5068 reason=GATEWAY_TIMEOUT
+2026-10-29 08:56:50 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5021 result=SUCCESS
+2026-10-29 10:25:08 INFO  [InventoryService] Stock reserved orderId=ORD-5039 sku=SKU-923
+2026-10-29 09:07:36 ERROR [PaymentService] Payment authorization failed orderId=ORD-5145 reason=GATEWAY_TIMEOUT
+2026-10-29 09:33:54 DEBUG [CacheService] Cache lookup completed cacheName=userSession hit=false
+2026-10-29 10:26:32 INFO  [NotificationService] Email notification sent messageId=MSG-848
+2026-10-29 08:57:45 INFO  [OrderService] Order created orderId=ORD-5024 userId=1472
+2026-10-29 09:08:28 ERROR [DatabaseService] Query execution failed queryId=Q-8837 reason=CONNECTION_TIMEOUT
+2026-10-29 09:45:40 DEBUG [AuthService] User role resolved userId=1311 role=SUPPORT
+2026-10-29 09:46:00 ERROR [AuthService] Authentication failed userId=1280 reason=INVALID_CREDENTIALS
+2026-10-29 10:02:17 WARN  [APIService] Request rate limit approaching clientId=CLIENT-23 requests=85 limit=100
+2026-10-29 08:53:20 TRACE [DatabaseService] Binding query parameter queryId=Q-8810 parameterIndex=5
+2026-10-29 09:57:42 INFO  [AuthService] User login successful userId=1243
+2026-10-29 09:58:04 DEBUG [CacheService] Cache lookup completed cacheName=userSession hit=true
+2026-10-29 09:58:26 TRACE [DatabaseService] Binding query parameter queryId=Q-8909 parameterIndex=4
+2026-10-29 10:04:12 WARN  [DatabasePool] Connection pool usage high active=16 max=20
+2026-10-29 10:20:50 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-907 reason=INVALID_FORMAT
+2026-10-29 09:43:14 DEBUG [AuthService] User role resolved userId=1839 role=USER
+2026-10-29 08:54:30 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8814 parameterCount=6
+2026-10-29 09:49:20 TRACE [DatabaseService] Binding query parameter queryId=Q-8851 parameterIndex=3
+2026-10-29 09:22:15 TRACE [DatabaseService] Binding query parameter queryId=Q-8880 parameterIndex=4
+2026-10-29 09:33:30 INFO  [AuthService] User login successful userId=1132
+2026-10-29 10:06:53 ERROR [AuthService] Authentication failed userId=2137 reason=INVALID_CREDENTIALS
+2026-10-29 09:23:00 DEBUG [CacheService] Cache lookup completed cacheName=productCatalog hit=true
+2026-10-29 09:17:42 ERROR [PaymentService] Payment authorization failed orderId=ORD-5065 reason=GATEWAY_TIMEOUT
+2026-10-29 10:35:52 DEBUG [OrderService] Validating order details orderId=ORD-5132 itemCount=2
+2026-10-29 09:40:30 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-966 reason=INVALID_FORMAT
+2026-10-29 09:46:24 INFO  [AuthService] User login successful userId=1074
+2026-10-29 10:09:11 DEBUG [CacheService] Cache lookup completed cacheName=productCatalog hit=false
+2026-10-29 09:18:52 ERROR [PaymentService] Payment authorization failed orderId=ORD-5029 reason=GATEWAY_TIMEOUT
+2026-10-29 09:58:39 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5071 durationMs=4190
+2026-10-29 09:36:20 INFO  [NotificationService] Email notification sent messageId=MSG-781
+2026-10-29 10:27:46 TRACE [CacheService] Checking cache key cacheKey=userSession:item:346
+2026-10-29 09:59:42 DEBUG [CacheService] Cache lookup completed cacheName=productCatalog hit=true
+2026-10-29 10:05:46 ERROR [PaymentService] Payment authorization failed orderId=ORD-5105 reason=GATEWAY_TIMEOUT
+2026-10-29 10:00:24 ERROR [PaymentService] Payment authorization failed orderId=ORD-5036 reason=GATEWAY_TIMEOUT
+2026-10-29 09:49:15 ERROR [PaymentService] Payment authorization failed orderId=ORD-5083 reason=GATEWAY_TIMEOUT
+2026-10-29 09:49:34 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-946 reason=INVALID_FORMAT
+2026-10-29 08:57:50 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-961 reason=INVALID_FORMAT
+2026-10-29 09:50:12 ERROR [DatabaseService] Query execution failed queryId=Q-8869 reason=CONNECTION_TIMEOUT
+2026-10-29 09:27:15 INFO  [InventoryService] Stock reserved orderId=ORD-5129 sku=SKU-617
+2026-10-29 10:14:10 WARN  [FileProcessor] Retrying file processing fileId=FILE-978 attempt=4
+2026-10-29 09:16:03 TRACE [DatabaseService] Binding query parameter queryId=Q-8900 parameterIndex=2
+2026-10-29 10:14:56 TRACE [DatabaseService] Binding query parameter queryId=Q-8880 parameterIndex=1
+2026-10-29 10:38:51 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5119 result=SUCCESS
+2026-10-29 10:21:36 WARN  [DatabasePool] Connection pool usage high active=16 max=20
+2026-10-29 09:16:55 ERROR [DatabaseService] Query execution failed queryId=Q-8824 reason=CONNECTION_TIMEOUT
+2026-10-29 09:17:08 TRACE [OrderService] Entering validateOrder() orderId=ORD-5085
+2026-10-29 10:34:42 TRACE [DatabaseService] Binding query parameter queryId=Q-8900 parameterIndex=2
+2026-10-29 10:41:06 INFO  [ReportService] Daily report generation completed reportId=RPT-202 durationMs=5431
+2026-10-29 10:11:38 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-947 reason=INVALID_FORMAT
+2026-10-29 10:48:00 INFO  [ReportService] Daily report generation completed reportId=RPT-227 durationMs=2386
+2026-10-29 09:06:11 INFO  [ReportService] Daily report generation completed reportId=RPT-209 durationMs=5507
+2026-10-29 09:48:36 ERROR [PaymentService] Payment authorization failed orderId=ORD-5056 reason=GATEWAY_TIMEOUT
+2026-10-29 10:49:24 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8880 parameterCount=11
+2026-10-29 09:06:44 TRACE [OrderService] Entering validateOrder() orderId=ORD-5143
+2026-10-29 10:13:50 DEBUG [AuthService] User role resolved userId=2038 role=USER
+2026-10-29 09:37:36 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5123 result=SUCCESS
+2026-10-29 10:14:34 ERROR [DatabaseService] Query execution failed queryId=Q-8886 reason=CONNECTION_TIMEOUT
+2026-10-29 10:51:44 INFO  [NotificationService] Email notification sent messageId=MSG-769
+2026-10-29 09:19:57 WARN  [APIService] Request rate limit approaching clientId=CLIENT-43 requests=88 limit=100
+2026-10-29 10:21:50 WARN  [APIService] Request rate limit approaching clientId=CLIENT-16 requests=92 limit=100
+2026-10-29 10:28:24 INFO  [NotificationService] Email notification sent messageId=MSG-808
+2026-10-29 09:14:24 TRACE [DatabaseService] Binding query parameter queryId=Q-8825 parameterIndex=1
+2026-10-29 09:20:49 WARN  [FileProcessor] Retrying file processing fileId=FILE-965 attempt=2
+2026-10-29 09:08:34 INFO  [NotificationService] Email notification sent messageId=MSG-810
+2026-10-29 09:46:15 WARN  [APIService] Request rate limit approaching clientId=CLIENT-45 requests=89 limit=100
+2026-10-29 09:02:40 DEBUG [DatabaseService] Prepared SQL statement queryId=Q-8897 parameterCount=1
+2026-10-29 09:15:24 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-922 reason=INVALID_FORMAT
+2026-10-29 09:53:24 INFO  [NotificationService] Email notification sent messageId=MSG-910
+2026-10-29 09:03:10 DEBUG [CacheService] Cache lookup completed cacheName=userSession hit=true
+2026-10-29 09:16:00 INFO  [OrderService] Order created orderId=ORD-5089 userId=1653
+2026-10-29 09:41:36 DEBUG [AuthService] User role resolved userId=1468 role=SUPPORT
+2026-10-29 09:41:52 INFO  [InventoryService] Stock reserved orderId=ORD-5004 sku=SKU-238
+2026-10-29 10:45:58 INFO  [NotificationService] Email notification sent messageId=MSG-849
+2026-10-29 09:04:00 ERROR [PaymentService] Payment authorization failed orderId=ORD-5066 reason=GATEWAY_TIMEOUT
+2026-10-29 10:01:55 WARN  [PaymentService] Payment gateway response slow orderId=ORD-5104 durationMs=5305
+2026-10-29 09:30:04 INFO  [ReportService] Daily report generation completed reportId=RPT-225 durationMs=2371
+2026-10-29 09:17:24 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-916 reason=INVALID_FORMAT
+2026-10-29 10:02:52 INFO  [OrderService] Order created orderId=ORD-5024 userId=1937
+2026-10-29 10:35:36 INFO  [AuthService] User login successful userId=1264
+2026-10-29 10:23:00 ERROR [FileProcessor] Could not parse uploaded file fileId=FILE-950 reason=INVALID_FORMAT
+2026-10-29 10:42:55 INFO  [NotificationService] Email notification sent messageId=MSG-723
+2026-10-29 10:23:44 INFO  [ReportService] Daily report generation completed reportId=RPT-221 durationMs=2111
+2026-10-29 10:04:27 INFO  [ReportService] Daily report generation completed reportId=RPT-202 durationMs=1552
+2026-10-29 10:04:46 DEBUG [AuthService] User role resolved userId=2137 role=USER
+2026-10-29 09:51:55 WARN  [DatabasePool] Connection pool usage high active=15 max=20
+2026-10-29 10:45:00 TRACE [OrderService] Exiting validateOrder() orderId=ORD-5006 result=SUCCESS
+2026-10-29 10:38:48 ERROR [PaymentService] Payment authorization failed orderId=ORD-5116 reason=GATEWAY_TIMEOUT
+2026-10-29 10:06:02 WARN  [APIService] Request rate limit approaching clientId=CLIENT-15 requests=93 limit=100
+2026-10-29 10:59:33 WARN  [APIService] Request rate limit approaching clientId=CLIENT-50 requests=90 limit=100

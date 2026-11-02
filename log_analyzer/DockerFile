@@ -1,0 +1,8 @@
+FROM eclipse-temurin:21-jre
+
+WORKDIR /app
+
+COPY target/log_analyzer-0.0.1-SNAPSHOT.jar app.jar
+COPY application.log application.log
+
+CMD ["java", "-jar", "app.jar"]
